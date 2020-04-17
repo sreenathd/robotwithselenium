@@ -1,4 +1,4 @@
-# robot framework with selenium container
+# robot framework selenium on python3.7 container with chrome
 Docker file for the container to execute Selenium or robot frameworks test cases
 Uses Python 3.7 and robotframework-seleniumlibrary 4.3.0
 
