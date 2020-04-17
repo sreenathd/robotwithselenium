@@ -1,0 +1,7 @@
+sites:
+    google:
+        https_url: https://www.google.com/
+        browser: Chrome
+locators:
+    mainpage:
+        title: Google
